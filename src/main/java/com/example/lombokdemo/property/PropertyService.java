@@ -14,4 +14,5 @@ public class PropertyService {
     public PropertyService(PropertyRepository propertyRepository) {
         this.propertyRepository = propertyRepository;
     }
+
 }
